@@ -1,0 +1,47 @@
+body{
+    /* background-color: antiquewhite; */
+}
+
+/* Container */
+.container{
+    width: 30%;
+    margin: auto;
+    margin-top: 250px;
+}
+
+/* Main */
+
+.main{
+    display: grid;
+    grid-auto-columns: 1fr;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+/* Filter */
+
+#converterInput{
+    text-align: center;
+}
+
+/* Output */
+
+
+
+Animation
+
+.ml16 {
+    color: #402d2d;
+    padding: 40px 0;
+    font-weight: 800;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    overflow: hidden;
+  }
+  
+  .ml16 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
